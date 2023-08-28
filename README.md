@@ -8,8 +8,11 @@
 
 🕵🏼 I'm actively looking for a 2024 summer internship of Software Development Engineering (SDE), specifically interested in Front-end developmennt and AI engineering.
 
-  
+🌟 I'm a long-time maintainer of [DLight.js](https://github.com/dlight-js/dlight). DLight.js is a DX-first UI rendering library that I've put a lot of work on.
+<p align="center">
 <img src="https://devcard.pullpo.io/api?user_id=cjmb4nbm97os73ehpghg&custom_title=IanDxSSXX%20%40%20dlight-js&custom_subtitle=Team%20Lead&show_icons=true&disable_animations=false&title_color=fc418d&text_color=a9fef7&icon_color=f8d847&ring_color=fc418d&bg_color=141321&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F123367865%3Fv%3D4"></img>
+</p>
+
 # 🧑🏼‍💻 Recent Activity 
 * Building DLight.js SSR! It's an element-level hydration SSR strategy without the distinction between server and client components, ensuring the same CSR and SSR code and minimizing JavaScript file sizes! Wait for it till mid Sep.(maybe)!
 
